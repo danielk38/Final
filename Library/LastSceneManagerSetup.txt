@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FG3D/Scenes/FG3D Deucalion's Humans.unity
+  isLoaded: 1
+  isActive: 1
